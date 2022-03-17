@@ -1,0 +1,1 @@
+Contains manufacturing and design files for but not limited to; schematics, PCBs, and enclosures.
