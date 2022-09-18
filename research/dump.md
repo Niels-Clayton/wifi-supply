@@ -13,3 +13,5 @@ https://www.ti.com/solution/dc-power-supply-ac-source-electronic-load?variantid=
 https://www.analog.com/en/technical-articles/high-performance-portable-dc-bench-power-supply.html
 
 https://www.analog.com/en/technical-articles/high-performance-portable-dc-bench-power-supply.html
+
+https://www.ti.com/seclit/ml/slup392/slup392.pdf?ts=1603870799715
